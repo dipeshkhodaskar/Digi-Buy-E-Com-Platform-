@@ -5,4 +5,5 @@ export const store = configureStore({
         cart: cartSlice,
     },
     devTools:true
-})
+});
+export default store;
